@@ -1,0 +1,10 @@
+# Never commit SSH keys or configs
+.ssh/
+*.key
+*.pem
+*.pub
+.gitconfig
+
+# Ignore system files
+*.swp
+*.tmp
